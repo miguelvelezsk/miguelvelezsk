@@ -40,7 +40,7 @@ I’m currently:
 ### 📫 Let's connect!
 
 - ✉️ miguelvelezaguirre10@gmail.com
-- 💼 [LinkedIn]https://www.linkedin.com/in/miguel-v%C3%A9lez-aguirre-235982168/
+- 💼 https://www.linkedin.com/in/miguel-v%C3%A9lez-aguirre-235982168/
 - 🐍 Always down to collaborate on meaningful Python projects!
 
 ---
