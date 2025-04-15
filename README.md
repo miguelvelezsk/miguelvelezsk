@@ -1,4 +1,5 @@
 # 👋 Hey there! I'm Miguel Vélez
+![Profile views](https://komarev.com/ghpvc/?username=miguelvelezsk&color=blue)
 
 🎓 Computer Engineering student  
 🔐 Cybersecurity enthusiast & data nerd  
