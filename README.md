@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Miguel Vélez
 ![Profile views](https://komarev.com/ghpvc/?username=miguelvelezsk&color=blue)
 
-🎓 Computer Engineering student  
+🎓 Computer Engineering student in University of Antioquia (Medellín-Colombia)  
 🔐 Cybersecurity enthusiast & data nerd  
 📊 Learning data visualization with matplotlib  
 🖥️ Building intuitive UIs with PySide6  
