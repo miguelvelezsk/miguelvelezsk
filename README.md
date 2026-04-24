@@ -1,49 +1,43 @@
-# 👋 Hey there! I'm Miguel Vélez
-![Profile views](https://komarev.com/ghpvc/?username=miguelvelezsk&color=blue)
+# Hi, I'm Miguel Vélez 👋
 
-🎓 Computer Engineering student in University of Antioquia (Medellín-Colombia)  
-🔐 Cybersecurity enthusiast & data nerd  
-📊 Learning data visualization with matplotlib  
-🖥️ Building intuitive UIs with PySide6  
-🌱 Always growing through projects that matter  
+Systems Engineering student at Universidad de Antioquia building real products 
+with Python, React, and data tools.
 
 ---
 
-### 🚀 About Me
+### 🚀 What I'm working on
 
-I'm passionate about creating things that blend tech with empathy. From analyzing WhatsApp chats to developing security tools and trading bots, I love exploring Python’s possibilities.
-
-I’m currently:
-
-- Studying Cybersecurity and Ethical Hacking 🛡️  
-- Working on projects with Python, PySide6, and matplotlib 📈  
-- Exploring how to build helpful, real-world tools 🌍
+- 🔍 **Ganga** — Real-time price comparison tool (FastAPI + Playwright + React)
+- 📊 **Data Analytics** — EDA, visualization, and statistical analysis with Python
+- 🌱 Learning Machine Learning fundamentals
 
 ---
 
-### 🛠️ Technologies I Use
+### 🛠️ Tech Stack
 
+**Backend & Data**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PySide6](https://img.shields.io/badge/-PySide6-green?style=flat)
-![matplotlib](https://img.shields.io/badge/-Matplotlib-orange?style=flat)
-![Linux Mint](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=flat&logo=linux)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-### 📌 Featured Projects (coming soon)
-
-- 🤖 **RSI-based Trading Bot** – simple Telegram bot that analyzes stock trends  
-- 🍎 **Nutrition Tracker App** – health-focused PMV with AI-powered diet assistant
-
----
-
-### 📫 Let's connect!
-
+### 📫 Let's connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-vélez-aguirre-235982168/)
 - ✉️ miguelvelezaguirre10@gmail.com
-- 💼 https://www.linkedin.com/in/miguel-v%C3%A9lez-aguirre-235982168/
-- 🐍 Always down to collaborate on meaningful Python projects!
 
 ---
 
-> _"Learning by doing. Creating with intention."_  
-
+> *"Learning by doing. Building with intention."*
