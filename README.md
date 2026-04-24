@@ -35,7 +35,7 @@ with Python, React, and data tools.
 ---
 
 ### 📫 Let's connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-vélez-aguirre-235982168/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguelangel-v%C3%A9lez-aguirre-235982168/)
 - ✉️ miguelvelezaguirre10@gmail.com
 
 ---
